@@ -1,0 +1,97 @@
+body{
+    margin: 0%;
+}
+
+ .header {
+    text-align: center;
+  border: 3px solid gray;
+  background-color: green;
+  margin-left: 1px;
+  margin-right: 1px;
+ 
+  
+    
+
+  
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 25px;
+    padding: 10px 20px;
+}
+a:visited{
+    background-color: red;
+    color: yellow;
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+ .picture img{
+    width: 400px;
+    display: flex;
+  margin-left: 550px;
+  margin-top: 50px;
+  margin-right: 550;
+   
+}
+  
+
+.center{
+   text-align: center; 
+   color: lightcoral;
+   
+   
+}
+.color{
+    color: orange;
+    text-shadow: 1px 2px red;
+    
+}
+.area{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+}
+#box-shadow{
+    box-shadow:5px 5px 5px gray;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 25px;
+    word-spacing: -5px;
+    border-left: 7px solid ;
+    border-image: linear-gradient(blue ,orange);
+    border-image-slice: 1;
+    border-bottom: 7px solid ;
+    border-image: linear-gradient(blue ,orange);
+    border-image-slice: 1;
+    border-radius: 8px;  
+}
+
+.add-img{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-left: 3px;
+}
+.half-width{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 30px;
+
+}
+.footer{
+    text-align: center;
+}
+
+
+
